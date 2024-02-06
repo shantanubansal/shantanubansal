@@ -1,6 +1,19 @@
 # Hi there! 👋 I'm Shantanu Bansal
 
-![Shantanu Bansal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanubansal&show_icons=true&theme=gruvbox)
+## Technologies I Love
+
+Here are some of my favorite technologies and programming languages:
+
+- Golang
+- Kubernetes
+- Docker
+- Distributed Systems
+- Message Broker/Buses
+- Reverse Proxy
+
+## GitHub Activity Chart
+
+![GitHub Activity Chart](https://ghchart.rshah.org/shantanubansal)
 
 ## Profile Overview
 
@@ -23,20 +36,7 @@ I'm a passionate software developer with a strong interest in technology. Here's
   - Total Commits: [![2022 Commits](https://img.shields.io/badge/2022-450-blue)](https://github.com/shantanubansal?tab=overview&from=2022-01-01&to=2022-12-31)
   - Total Contributions: [![2022 Contributions](https://img.shields.io/badge/2022-XX-orange)](https://github.com/shantanubansal?tab=overview&from=2022-01-01&to=2022-12-31)
 
-## Technologies I Love
 
-Here are some of my favorite technologies and programming languages:
-
-- Golang
-- Kubernetes
-- Docker
-- Distributed Systems
-- Message Broker/Buses
-- Reverse Proxy
-
-## GitHub Activity Chart
-
-![GitHub Activity Chart](https://ghchart.rshah.org/shantanubansal)
 
 ## Let's Connect
 
